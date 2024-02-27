@@ -60,8 +60,8 @@ expand NSLS2,National Sychrotron Light Source II
 expand OD,Ordered Domains
 expand OPAL,Open Pool Australian Synchrotron
 expand PDB ID,Protein Data Bank identifier
-expand PDDF,Pairwise Distance Distribution Function (also P(r))
-expand PIPES,piperazine-N,N′-bis(2-ethanesulfonic acid
+expand PDDF,Pairwise Distance Distribution Function
+expand PIPES,"piperazine-N,N′-bis(2-ethanesulfonic acid"
 expand QELS,quasi elasteric light scattering
 expand RALLS,right-angle laser light scattering
 expand REMD,Replica Exchange Molecular Dynamics
