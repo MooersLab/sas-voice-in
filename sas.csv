@@ -1,0 +1,97 @@
+exapnd FM,Flexible Meccano
+exapnd TISM,triple isotopic substitution method
+expand ALS,Advanced Light Source
+expand APS,Advanced Photon Source
+expand AUC,analytical ultracentrifugation
+expand AXES,Analysis of X-ray Scattering in Explicit Solvent
+expand BDA,Bayesian data analysis
+expand BE-SAXS,Bayeisan Ensemble SAXS
+expand BioCAT,Biophysics Collaborative Access Team
+expand BioSAS,biological small angle scattering
+expand BME,beta-mercaptoethanol
+expand Broad Ensemble Generator with Re-weighting
+expand BSA,bovine serum albumin
+expand BSS-SAXS,Basis-Set Supported SAXS
+expand CHESS,Cornell High Energy Synchrotron Source
+expand CG_MD,coarse-grained molecular dynamics
+expand CD,circular dichroism
+expand DAC,Digital to Analog Converter
+expand DLS,Dynamic Light Scattering
+expand DR,dummy residues
+expand DTT,dithiothreitol
+expand EOM,Ensemble Optimization Method
+expand EPR,Electron Paramagnetic Resonance
+expand EROS,Ensemble Refinement of SAXS
+expand ESRF,European Synchrotron Radiation Facility
+expand FSC,Fourier Shell Correlation
+expand GP,Gaussian Processes
+expand HEPES,4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
+expand HFIR,High Flux Isotope Reactor
+expand HMC,Hamiltonian Monte Carlo or Hybrid MC
+expand HPDI,Highest Posterior Density Interval
+expand HPLC,High-pressure liquid chromatography
+expand HS-MMC,Hamiltonian Switch Metropolis Monte Carlo
+expand ID,internal diameter
+expand IDPs,Intrinsically Disordered Proteins
+expand IDPs,Intrinsically Disordered Regions
+expand IMP,Integrative Modeling Platform
+expand LALLS,low-angle laser light scattering
+expand LCR,low-complexity regions
+expand LS,light scattering
+expand LTM,label triangulation method
+expand MAP,maximum a posterior
+expand MALLS,multi-angle laser light scattering
+expand MALS,multi-angle light scattering
+expand MAP,Maximum a posterior
+expand MAX-occ,Maximum occurrence
+expand MAXS,Medium Angle X-ray Scattering
+expand MC,Monte Carlo
+expand MD,Molecular Dynamics
+expand MES buffer,2-(N-morpholino)ethanesulfonic acid
+expand MES,Minimal Ensemble Search
+expand MM,molecular mass
+expand MOPS,3-(N-morpholino)propanesulfonic acid
+expand MS,mass spectrometry
+expand MSES,multiscale enhanced sampling
+expand MWCO,Molecular Weight Cutoff 
+expand NMR,Nuclear Magnetic Resonance
+expand NSD,Normalized Spatial Discrepancy
+expand NSLS2,National Sychrotron Light Source II
+expand OD,Ordered Domains
+expand OPAL,Open Pool Australian Synchrotron
+expand PDB ID,PDB ID,Protein Data Bank identifier
+expand PDDF,Pairwise Distance Distribution Function (also P(r))
+expand PIPES,piperazine-N,N′-bis(2-ethanesulfonic acid
+expand QELS,quasi elasteric light scattering
+expand RALLS,right-angle laser light scattering
+expand REMD,Replica Exchange Molecular Dynamics
+expand RI,refractive index
+expand RMSD,root-mean-square-deviation
+expand SA,simulated annealing
+expand SANS,Small Angle Neutron Scattering
+expand SAS,Small Angle Scattering
+expand SASBDB,Small Angle Scattering Biological Data Bank
+expand SAXS,Small Angle X-ray Scattering
+expand SEC,Size-exclusion chromatography Small Angle X-ray Scattering
+expand SEC-MALS,size-exclusion chromatography multi-angle light scattering
+expand SEC-SAXS,size-exclusion chromatography
+expand SFX,Serial Femtosecond Crystallography
+expand SIBYLS,Structurally Integrated biology for Life Sciences
+expand sls,Static Light Scattering
+expand SLS,Swiss Light Source
+expand SLURM,Simple Linux Utility for Resource Management
+expand smFRET,single molecule Fluoresence Resonance Energy Transfer
+expand SMWAXS,Small Angle/Medium Angle/Wide Angle X-ray Scattering Combined
+expand SNS,Swiss Neutron Source
+expand SSNS,Swiss Spallation Neutron Source
+expand SSRL,Stanford Synchrotron Radiation Lightsource
+expand SVD,Singular value decomposition
+expand SWAXS,Small and Wide Angle X-ray Scattering
+expand TCEP,Tris(2-carboxyethyl)phosphine
+expand Tris,tris(hydroxymethyl)aminomethane
+expand TR-SAXS,time-resolved small angle X-ray scattering
+expand TR-WAXS,time-resolved wide angle X-ray scattering
+expand UHPLC,Ultra High Performance Liquid Chromatography
+expand WAXS,Wide Angle X-ray Scattering
+expand wwPDB,World Wide Protein Data Bank
+expand XFEL,X-ray free electron laser
