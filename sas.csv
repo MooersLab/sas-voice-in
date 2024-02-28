@@ -19,6 +19,7 @@ expand DAC,Digital to Analog Converter
 expand DLS,Dynamic Light Scattering
 expand DR,dummy residues
 expand DTT,dithiothreitol
+expand EFA,Evalving Factor Analysis
 expand EOM,Ensemble Optimization Method
 expand EPR,Electron Paramagnetic Resonance
 expand EROS,Ensemble Refinement of SAXS
