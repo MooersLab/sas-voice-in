@@ -14,6 +14,7 @@ expand CHESS,Cornell High Energy Synchrotron Source
 expand CG_MD,coarse-grained molecular dynamics
 expand CD,circular dichroism
 expand DAC,Digital to Analog Converter
+expand DENSS,DENsity from Solution Scattering
 expand DLS,Dynamic Light Scattering
 expand DR,dummy residues
 expand DTT,dithiothreitol
@@ -89,17 +90,20 @@ expand SVD,Singular value decomposition
 expand SWAXS,Small and Wide Angle X-ray Scattering
 expand TCEP,Tris(2-carboxyethyl)phosphine
 expand Tris,tris(hydroxymethyl)aminomethane
-exapnd TISM,triple isotopic substitution method
+expand TISM,triple isotopic substitution method
 expand TR-SAXS,time-resolved small angle X-ray scattering
 expand TR-WAXS,time-resolved wide angle X-ray scattering
 expand UHPLC,Ultra High Performance Liquid Chromatography
 expand WAXS,Wide Angle X-ray Scattering
 expand wwPDB,World Wide Protein Data Bank
 expand XFEL,X-ray free electron laser
+expand XSS,X-ray Solution Scattering
 explain ATSAS,EMBL-Hamburg collection of SAXS programs
 describe CHROMIXS,ATSAS program for processing SEC-SAXS data
 describe CORAL,ATSAS program to model multidomain protein complexes against multiple datasets
 describe CRYSOL,ATSAS program to fit experimental data with atomic models
 describe DAMAVER,ATSAS program collection to align ab initio models and build an average model
 describe DAMMIF,ATSAS program for ab initio shape determination by simulated annealing with dummy atoms.
-describe DAMMIN,ATSAS program for ab initio shape determination 
+describe DAMMIN,ATSAS program for ab initio shape determination
+open WebDENSS,<open:https://denss.ccr.buffalo.edu/>
+
