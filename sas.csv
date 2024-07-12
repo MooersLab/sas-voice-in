@@ -77,7 +77,7 @@ expand SEC,Size-exclusion chromatography Small Angle X-ray Scattering
 expand SEC-MALS,size-exclusion chromatography multi-angle light scattering
 expand SEC-SAXS,size-exclusion chromatography
 expand SFX,Serial Femtosecond Crystallography
-expand SIBYLS,Structurally Integrated biology for Life Sciences
+expand SIBYLS,Structurally Integrated Biology for Life Sciences
 expand sls,Static Light Scattering
 expand SLS,Swiss Light Source
 expand SLURM,Simple Linux Utility for Resource Management
@@ -102,6 +102,10 @@ explain ATSAS,EMBL-Hamburg collection of SAXS programs
 describe CHROMIXS,ATSAS program for processing SEC-SAXS data
 describe CORAL,ATSAS program to model multidomain protein complexes against multiple datasets
 describe CRYSOL,ATSAS program to fit experimental data with atomic models
+open BioSAXS beamline at SSRL,<https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open beam line 4-2 at SSRL,<https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open SIBYLS beamline,<https://bl1231.als.lbl.gov/>
+open SIBYLS beamline at ALS,<https://bl1231.als.lbl.gov/>
 describe DAMAVER,ATSAS program collection to align ab initio models and build an average model
 describe DAMMIF,ATSAS program for ab initio shape determination by simulated annealing with dummy atoms.
 describe DAMMIN,ATSAS program for ab initio shape determination
